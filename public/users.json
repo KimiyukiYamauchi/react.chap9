@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "firstname": "勉",
+    "lastname": "主田",
+    "age": 24,
+    "personalColor": "blue"
+  },
+  {
+    "id": 2,
+    "firstname": "美咲",
+    "lastname": "先岡",
+    "age": 28,
+    "personalColor": "pink"
+  },
+  {
+    "id": 3,
+    "firstname": "一郎",
+    "lastname": "後藤",
+    "age": 23,
+    "personalColor": "green",
+    "hobbies": ["game", "soccer"]
+  }
+]
